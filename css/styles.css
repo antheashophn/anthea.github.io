@@ -48,7 +48,11 @@ main > .intro {
 	font-size: 3.75em;
 	font-weight: 600;
 }
-
+main > .summary {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 1.75em;
+	font-weight: 300;
+}
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
