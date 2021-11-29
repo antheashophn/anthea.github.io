@@ -1,8 +1,11 @@
 /* Theme */
 
 main {
-	background-size: auto;
+	border: 2px solid black;
+	padding: 25px;
 	background-image: url(https://github.com/antheashophn/antheashophn.github.io/blob/master/anthea_bg_2.png?raw=true);
+	background-size: auto;
+	background-repeat: no-repeat;
 	color: #FAFAFA;
 }
 
