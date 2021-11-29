@@ -1,7 +1,8 @@
 /* Theme */
 
 main {
-	background: url("anthea_background.jpg");
+	background-image: url("anthea_background.jpg");
+	background: #303F9F;
 	color: #FAFAFA;
 }
 
