@@ -1,7 +1,8 @@
 /* Typography */
 
 html {
-	font-family: 'Roboto Slab', sans-serif;
+	font-family: 'Ewert', cursive;
+	font-family: 'Roboto Slab', serif;
 }
 
 @media (min-width: 576px) {
@@ -44,12 +45,14 @@ main {
 }
 
 main > .intro {
-	font-family: 'Roboto Slab', sans-serif;
+	font-family: 'Ewert', cursive;
+	font-family: 'Roboto Slab', serif;
 	font-size: 3.75em;
 	font-weight: 600;
 }
 main > .summary {
-	font-family: 'Roboto Slab', sans-serif;
+	font-family: 'Ewert', cursive;
+	font-family: 'Roboto Slab', serif;
 	font-size: 1.75em;
 	font-weight: 600;
 }
