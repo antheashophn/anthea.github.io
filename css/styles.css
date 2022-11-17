@@ -84,4 +84,4 @@ main > .tagline_hotline {
 	height: 2.65rem;
 }
 
-#phone-text a{color:#fff; text-decoration:none;}
+#phone-text a{color:inherit; text-decoration:none;}
