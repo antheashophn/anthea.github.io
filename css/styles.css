@@ -83,3 +83,5 @@ main > .tagline_hotline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+#phone-text a{color:#fff; text-decoration:none;}
